@@ -9,3 +9,9 @@
     font-family: "HighSchoolUSASerif";
     src: url('assets/fonts/HIghSchool/High-School-USA-Serif.ttf.woff') format('woff');
 }
+
+*, body{
+    margin: 0;
+	padding: 0;
+	border: 0;
+}
