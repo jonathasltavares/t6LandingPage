@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+:root{
+    --t6Red:  #c51f30;
+    --t6Black: #20252a;
+    --t6DarkGray: #9a999a;
+    --t6LightGray: #e6dcdd;
+}
+
+@font-face {
+    font-family: "HighSchoolUSASerif";
+    src: url('assets/fonts/HIghSchool/High-School-USA-Serif.ttf.woff') format('woff');
+}
