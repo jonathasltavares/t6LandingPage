@@ -69,5 +69,5 @@ span {
   flex-wrap: wrap;
   width: 80%;
 
-  gap: 40px;
+  overflow-x: auto;
 }
