@@ -37,7 +37,7 @@ h2{
 
 p {
   color: var(--t6LightGray);
-  font-size: 20px;
+  font-size: 1.5rem;
   line-height: 1.5;
 
   font-family: "Courier New", Courier, monospace;
@@ -89,4 +89,31 @@ span {
 .redes-sociais-section h2 {
   color: white;
   margin-bottom: 15px;
+}
+
+.faca-parte-section{
+  display: flex;
+  flex-direction: column;
+  background-color: var(--t6LightGray);
+  min-height: 40vw;
+  gap: 2rem;
+}
+
+ol{
+  width: 60%;
+  gap: 2rem;
+}
+li{
+  color: var(--t6Red);
+  font-size: 1.8rem;
+  line-height: 1.5;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+}
+ol p{
+  color: var(--t6Black);
+  font-size: 20px;
+  line-height: 1.5;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1.5rem;
 }
